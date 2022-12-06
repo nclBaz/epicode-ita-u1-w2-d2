@@ -76,3 +76,14 @@ pet2.occhi = 3
 console.log("Pet: ", pet)
 console.log("Pet2: ", pet2)
  */
+
+// ********************************************** ARRAY *******************************************
+
+const arrayDiNumeri = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+const arrayDiStringhe = ["Adina", "Giorgio", "Alessandro", "Samuele", "Vincenzo"]
+
+console.log("Il primo elemento dell'array è: ", arrayDiStringhe[0].toUpperCase())
+console.log("Il secondo elemento dell'array è: ", arrayDiStringhe[1])
+console.log("Il terzo elemento dell'array è: ", arrayDiStringhe[2])
+console.log("Il quarto elemento dell'array è: ", arrayDiStringhe[3].toUpperCase())
+/* console.log("Il quarto elemento dell'array è: ", arrayDiStringhe[4].toUpperCase()) */
